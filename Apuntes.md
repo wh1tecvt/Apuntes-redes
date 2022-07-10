@@ -1,7 +1,6 @@
 # Redes de computadores
 ## 1. Introducción
 ---
-Bla bla
 ## 2. Arquitectura de red
 >### 2.1 Modelo de capas
 >### 2.2 Modelo de arquitectura TCP/IP (Internet)
@@ -43,10 +42,3 @@ Bla bla
 >### 7.1 Arquitectura de accesos WAN
 >### 7.2 Redes de acceso a Internet
 ---
-
-Hooli 
-<pre><code>asa</code></pre>
-<span style="color: green"> Some green text </span>
-## Hehe
-**asasd**
-<span style="color: lavender"> Some green text </span>
